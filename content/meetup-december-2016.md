@@ -1,4 +1,4 @@
-Title: Meet Up Summary (December, 2016)
+Title: Meetup Summary (December, 2016)
 Date: 2016-12-03 16:00
 Category: Meetups
 Tags: meetup
